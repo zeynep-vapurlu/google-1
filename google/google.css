@@ -1,0 +1,47 @@
+.birinci{background-color: rgb(238, 238, 238);
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom: 2px;
+height: 
+61px;}
+
+.ikinci{ 
+   
+    background-color: rgb(126, 229, 218);
+    
+    margin-top: 1px;
+    margin-left: 80px;
+    width: 500px;
+    height: 74px;
+    padding-top: 7px;
+    float: left;
+}
+
+.üçüncü{ 
+    background-color: rgb(112, 204, 194);
+    width: 310px;
+    height: 74px;
+    font-size: 13px;
+    padding-top: 7px;
+    margin-left: 2px;
+    margin-top: 1px;
+    float: left;
+
+}
+
+.dördüncü{
+    float: left;
+    background-color: rgb(98, 179, 170);
+    height: 81px;
+    width: 545px;
+    margin-top: 1px;
+    margin-left: 2px;
+   
+   
+}
+
+.beşinci{clear: both;
+    font-size: 13px;
+    padding-top: 13px;
+}
+
